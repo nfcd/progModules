@@ -1,5 +1,5 @@
 # progModules
-Notebooks for the education project: Meaningful Python programming modules. The project was funded by the Faculty of Science and Technology at the University of Stavanger (UiS), Norway. The notebooks are for modules 3 and 12, and they are both in English (module) and Norwegian (modul). The modules consist of movies and notebooks, and they were made by the students working on the project. Movies are availabe at the following YouTube playlists:
+Notebooks for the education project: Meaningful Python programming modules. The project was funded by the Faculty of Science and Technology at the University of Stavanger (UiS), Norway. The notebooks are for modules 3 to 12, and they are both in English (module) and Norwegian (modul). The modules consist of movies and notebooks, and they were made by the students working on the project. Movies are availabe at the following YouTube playlists:
 
 [Meaningful programming modules]()
 
