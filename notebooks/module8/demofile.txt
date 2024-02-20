@@ -1,0 +1,5 @@
+name,gender,age
+syed,male,25
+alex,male,30
+solmoy,female,28
+artem,male,23
