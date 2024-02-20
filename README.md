@@ -6,8 +6,8 @@ Notebooks for the education project: Meaningful Python programming modules. The 
 [Meningsfulle programmeringsmoduler]()
 
 ## Students working on the project:
-. Solmøy Austbø (Institute of Energy Resources, IER)
-. Alexander Djario Raffn (IER)
+- Solmøy Austbø (Institute of Energy Resources, IER)
+- Alexander Djario Raffn (IER)
 . Artem Kornienko (IER)
 . Syed Nazim Syed Sabeer Ali (IER)
 . Tontong Yu (Institute of Energy and Petroleum, IDE)
