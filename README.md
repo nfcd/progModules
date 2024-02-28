@@ -10,7 +10,7 @@ Notebooks for the education project: Meaningful Python programming modules. The 
 - Alexander Djario Raffn (IER)
 - Artem Kornienko (IER)
 - Syed Nazim Syed Sabeer Ali (IER)
-- Tontong Yu (Institute of Energy and Petroleum, IDE)
+- Tontong Yu (Institute of Energy and Petroleum, IEP)
 
 ## Faculty working on the project:
 - Nestor Cardozo (IER)
